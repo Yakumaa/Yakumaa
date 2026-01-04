@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shrish Maharjan</h1>
-<h3 align="center">A computer science student</h3>
+<h1 align="center">Hi, I'm Shrish Maharjan</h1>
+<!-- h3 align="center">A computer science student</h3>
 
-- 🌱 I’m currently learning **Data Science**
+<!--- 🌱 I’m currently learning **Data Science** -->
 
 - 📫 How to reach me **maharjanshrish8@gmail.com**
 
@@ -27,7 +27,7 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a> 
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a> 
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://nestjs.com/logo-small-gradient.d792062c.svg" alt="nestjs" width="40" height="40"/></a> 
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="	https://nestjs.com/logo-small-gradient.0ed287ce.svg" alt="nestjs" width="40" height="40"/></a> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a> 
